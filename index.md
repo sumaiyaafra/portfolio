@@ -2,45 +2,61 @@
 layout: default
 title: About
 ---
-## **Experience**
+## **Work Experience**
 ---
-**Therap (BD) Ltd.** <br />
-*Software Engineer, QA (Oct 2019 - Present)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
-* Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-* Sed lacinia tristique ligula, at egestas augue gravida quis.
+**Julius Kühn Institut, Siebeldingen, Germany** <br />
+*Research Assistant (Hiwi) (Aug 2019 - Feb 2020)* <br />
+**Project:** Rainproof delivery systems to protect the vine from the downy mildew (Plasmopara viticola) and
+spotted wing Drosophila (Drosophila suzukii).
 
-**Sourcetop, Inc** <br />
-*Jr. Software Engineer (Feb 2018 – Aug 2018)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
-* Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-* Sed lacinia tristique ligula, at egestas augue gravida quis.
+**Julius Kühn Institut, Siebeldingen, Germany** <br />
+*Intern (Jun 2019 – Jul 2019)* <br />
+**Project:** The role of scale insects (Homoptera Coccina) in the epidemiology of Rebvirosen as the basis for a
+reappraisal of risk in the German wine growing.
+
+**EQMS Consulting Limited, Dhaka, Bangladesh** <br />
+*Assistant Consultant (Environment) (Apr 2018 – Sept 2018)*
+
+**Voluntary Rural Development Society (VRDS), Dhaka, Bangladesh** <br />
+*Program Officer (Agriculture) (Mar 2017 – Mar 2017)* <br />
+**Project:** Delivery of High Zinc Rice
+
+**Dept. of Soil, Water and Environment, University of Dhaka, Bangladesh** <br />
+*Research Assistant (Sept 2015 – Feb 2017)*
 
 ## **Education**
 ---
-**BRAC University** <br />
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)* <br />
-CGPA: **3.71** (out of **4.00**)
+**Universität Koblenz · Landau, Landau in der Pfalz, Germany** <br />
+*Master of Science in Ecotoxicology (Oct 2018 – Present)*
 
-## **Honors & Achievements**
----
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, *Jan 2018*
-* Quisque nec viverra velit, nec rutrum urna Nunc cursus turpis mi, non egestas est tincidunt vitae, *Aug 2016*
-* Sed lacinia tristique ligula, at egestas augue gravida quis, *Dec 2015*
+**Dept. of Soil, Water and Environment, University of Dhaka, Dhaka, Bangladesh** <br />
+*Master of Science in Soil Science (Sept 2015 – Apr 2017)* <br />
+**Thesis:** “Antibacterial Activity of Soil-bound Antimicrobial Oxytetracycline”
 
-## **Project**
----
-* **Saucedemo Test Automation:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna Nunc cursus turpis mi, non egestas est tincidunt vitae. <br />
-**Tech Stack:** Java and Selenium WebDriver <br />
-**URL:** [https://github.com/Tahanima/saucedemo-test-automation](https://github.com/Tahanima/saucedemo-test-automation) 
+**Dept. of Soil, Water and Environment, University of Dhaka, Dhaka, Bangladesh** <br />
+*Bachelor of Science in Soil, Water and Environment (Jan 2011 – Apr 2015)* <br />
+**Bachelor Seminar:** “Microalgae: An Alternative Source of Renewable Energy”
 
 ## **Skills**
 ---
-* **Languages:** Java, C++, SQL
-* **Technologies:** Git, Linux
-* **Tools:** JIRA
+**Computer Skills**
+* Proficient with most of the Microsoft Office Programs.
+* Limited experience with R, Arc GIS and SPSS software, developed during university courses.
+* Fair command of Adobe Photoshop gained as an amateur photographer.
+
+**Other Skills**
+* Good organizational skills gained as a research assistant.
+* Good team leading & event management skills gained as program officer of different campaign activities.
+* Ability to interact and effectively communicate with people from diverse backgrounds, by showing interest and carefully listening to their needs.
+* Strong presentation and demonstrating skills.
+
+## **Publications and Conference Proceeding**
+---
+* Chakma, P., **S. Chowdhury**, L. Bari and S. Hoque. 2019. A Feasible Way of Degrading Malathion Pesticide under Laboratory Condition Using Phosphate Solubilizing Bacteria. Journal of Geoscience and Environment Protection, 7: 1-12.
+* Mottalib, M. A, A. Sultana, M. M. Rahman, G. Zilani, **S. Chowdhury** and S. Hoque. 2017. Investigation onto Soil Salinity of Hazaribagh Tanning Industrial Area, Dhaka, Bangladesh. IOSR-JESTFT, 11(8): 44 - 49.
+* **Chowdhury, S.**, P. Chakma and S. Hoque. 2017. Antibacterial activity of soil-bound oxytetracycline. Bangladesh J. Sci. Ind. Res. 52 (Special Issue): 29.
 
 ## **Contact**
 ---
-* **Email:** tahanimachowdhury@gmail.com
-* **Github:** [https://github.com/Tahanima](https://github.com/Tahanima)
+* **Email:** chow8704@uni-landau.de
+* **LinkedIn:** [www.linkedin.com/in/sumaiya-chowdhury-64a234105](www.linkedin.com/in/sumaiya-chowdhury-64a234105)
